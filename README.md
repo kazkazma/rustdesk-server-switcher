@@ -35,3 +35,7 @@ Copy-Item .\profiles.example.json .\profiles.json
 ## 私密設定
 
 本機的 `profiles.json`、備份和產生的捷徑不會納入 Git。自訂名稱的設定檔請放在儲存庫外。預覽與套用輸出可能包含伺服器位址和完整 Key；分享畫面或日誌前請遮蔽。
+
+## 授權
+
+本專案採用 [MIT 授權](LICENSE)。
