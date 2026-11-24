@@ -1,0 +1,14 @@
+{
+  "example-a": {
+    "idServer": "id-a.example.com",
+    "relayServer": "relay-a.example.com",
+    "apiServer": "https://api-a.example.com",
+    "key": ""
+  },
+  "example-b": {
+    "idServer": "id-b.example.com",
+    "relayServer": "",
+    "apiServer": "",
+    "key": ""
+  }
+}

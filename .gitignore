@@ -1,0 +1,8 @@
+# Local server profiles and backups may contain private endpoints and keys.
+/profiles.json
+/profiles.*.json
+!/profiles.example.json
+/backups/
+
+# Generated Windows shortcuts contain machine-specific paths.
+*.lnk
